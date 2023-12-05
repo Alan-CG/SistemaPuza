@@ -1,0 +1,13 @@
+.jumbotron {
+    height: 180px;
+    margin-bottom: 100;
+    text-align: center;
+    text-shadow: black;
+    background-color: #FB5805;
+    color: aliceblue;
+}
+
+.btn{
+    background-color: #FB5805;
+    border-color: #FB5805;
+    }
